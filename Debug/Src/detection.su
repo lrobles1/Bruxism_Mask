@@ -1,0 +1,5 @@
+../Src/detection.c:33:13:enable_buzz	24	static
+../Src/detection.c:44:13:disable_buzz	24	static
+../Src/detection.c:55:13:detection_update	16	static
+../Src/detection.c:153:6:process_samples	120	static
+../Src/detection.c:202:6:Detection_Init	16	static

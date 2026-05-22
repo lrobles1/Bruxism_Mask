@@ -1,0 +1,6 @@
+../Src/EMGFilters.c:39:13:filter2nd_init	32	static
+../Src/EMGFilters.c:51:14:filter2nd_update	24	static
+../Src/EMGFilters.c:67:13:filter4th_init	40	static
+../Src/EMGFilters.c:81:14:filter4th_update	24	static
+../Src/EMGFilters.c:100:6:EMGFilters_Init	24	static
+../Src/EMGFilters.c:118:9:EMGFilters_Update	24	static

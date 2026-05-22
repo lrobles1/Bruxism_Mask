@@ -1,0 +1,6 @@
+../Src/hm_10_uart.c:17:6:hm10_uart_init	16	static
+../Src/hm_10_uart.c:36:17:compute_uart_bd	16	static
+../Src/hm_10_uart.c:39:13:uart_set_baudrate	24	static
+../Src/hm_10_uart.c:42:6:hm10_write_char	16	static
+../Src/hm_10_uart.c:46:6:hm10_write_at_command	16	static
+../Src/hm_10_uart.c:53:6:hm10_write_string	16	static

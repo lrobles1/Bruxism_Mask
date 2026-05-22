@@ -1,0 +1,5 @@
+../Src/adc.c:36:6:TIM2_ADC_Trigger_Init	1
+../Src/adc.c:65:6:ADC_Wakeup	3
+../Src/adc.c:80:6:ADC_Common_Configuration	1
+../Src/adc.c:94:6:ADC_Pin_Init	1
+../Src/adc.c:102:6:ADC_Init	3

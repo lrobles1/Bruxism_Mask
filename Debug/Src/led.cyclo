@@ -1,0 +1,11 @@
+../Src/led.c:24:6:LEDs_Init	1
+../Src/led.c:40:13:led_pin_config	1
+../Src/led.c:59:6:LED1_On	1
+../Src/led.c:60:6:LED1_Off	1
+../Src/led.c:61:6:LED1_Toggle	1
+../Src/led.c:66:6:LED2_On	1
+../Src/led.c:67:6:LED2_Off	1
+../Src/led.c:68:6:LED2_Toggle	1
+../Src/led.c:73:6:LED3_On	1
+../Src/led.c:74:6:LED3_Off	1
+../Src/led.c:75:6:LED3_Toggle	1
